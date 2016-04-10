@@ -45,3 +45,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.Zip
+PCC-0027-00019-1/Released/18SOP_N.PcbLib
+PCC-0151-00021-1/Released/TI-N18.PcbLib
+SYM-0027-00075-1/Released/RF-ENC-HT12A-IL20.SchLib
+__Previews/flipdot.$$$Preview
+*.SchDocPreview
+CMP-0201-00001-1.CmpLib
