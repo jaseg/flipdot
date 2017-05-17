@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: flipdot.PcbDoc   5/16/2017  10:27:11 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : flipdot.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.356mm)                                           Round             12        PTH        4.54inch (115.29mm)
+T2      24mil (0.6mm)                                             Round             5         PTH        0.93inch (23.74mm)
+T3      28mil (0.711mm)                                           Round             57        PTH        24.21inch (615.04mm)
+T4      32mil (0.8mm)                                             Round             2         PTH        0.08inch (2.00mm)
+T5      35mil (0.9mm)                                             Round             126       PTH        19.03inch (483.24mm)
+T6      39mil (1mm)                                               Round             16        PTH        3.67inch (93.21mm)
+T7      40mil (1.016mm)                                           Round             112       PTH        16.82inch (427.27mm)
+T8      45mil (1.15mm)                                            Round             14        PTH        4.31inch (109.50mm)
+T9      47mil (1.2mm)                                             Round             2         PTH        0.30inch (7.50mm)
+T10     59mil (1.5mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T11     118mil (3mm)                                              Round             3         NPTH       3.07inch (78.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              351
+
+Total Processing Time (hh:mm:ss) : 00:00:00

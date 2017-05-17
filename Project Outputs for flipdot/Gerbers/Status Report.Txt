@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [flipdot.PcbDoc]
+   Generated File[flipdot.GTL]
+   Generated File[flipdot.GBL]
+   Generated File[flipdot.GTO]
+   Generated File[flipdot.GTP]
+   Generated File[flipdot.GTS]
+   Generated File[flipdot.GBS]
+   Generated File[flipdot.GBP]
+   Generated File[flipdot.GBO]
+   Generated File[flipdot.GKO]
+   Generated File[flipdot.RUL]
+   Generated File[flipdot.EXTREP]
+   Generated File[flipdot.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 10:27:13 PM On 5/16/2017
